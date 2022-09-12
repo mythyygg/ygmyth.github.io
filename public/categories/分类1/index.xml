@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>分类1 on ygmyth&#39;s blog</title>
+    <link>https://ygmyth.me/categories/%E5%88%86%E7%B1%BB1/</link>
+    <description>Recent content in 分类1 on ygmyth&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 04 Oct 2020 16:00:18 +0800</lastBuildDate><atom:link href="https://ygmyth.me/categories/%E5%88%86%E7%B1%BB1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[总结] 性能监控与故障处理工具</title>
+      <link>https://ygmyth.me/post/jvm-performance/</link>
+      <pubDate>Sun, 04 Oct 2020 16:00:18 +0800</pubDate>
+      
+      <guid>https://ygmyth.me/post/jvm-performance/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
